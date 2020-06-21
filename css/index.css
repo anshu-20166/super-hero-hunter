@@ -15,7 +15,7 @@
     height:40px;
 }
 body{
-    background: url(/images/spiderman1.jpg);
+    background: url(images/spiderman1.jpg);
     opacity: 1;
     background-repeat: no-repeat;
     background-size: cover;
