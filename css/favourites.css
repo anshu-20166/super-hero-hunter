@@ -1,11 +1,6 @@
 body{
-    background:url(/images/superhero.jpg);
-    
-    opacity: 0.8;
-    background-repeat: no-repeat;
-    background-size: cover;
-    background-origin: content-box;
-    background-position: center;
+     background-color: #152238;
+    color: white;
 }
 #container
 {
