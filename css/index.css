@@ -15,12 +15,10 @@
     height:40px;
 }
 body{
-    background: url(images/spiderman1.jpg);
-    opacity: 1;
-    background-repeat: no-repeat;
-    background-size: cover;
-    background-origin: content-box;
-    background-position: center;
+     background-color: #152238;
+    color: white;
+    
+    
 }
 li{
     background-color: white;
